@@ -8,7 +8,7 @@ function Contact() {
 
         <div 
         className='leftSide'
-        style={{backgoundImage: `url(${BannerImage})`}}>
+        style={{ backgroundImage: `url(${BannerImage})`}}>
             </div> 
 
         <div className='rightSide'>
